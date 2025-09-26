@@ -37,6 +37,10 @@
   - PCHunter团队、YDArk团队（参考该软件UI设计与功能）.
   - 欢迎大家使用，若是发现BUG, 请及时联系反馈提交Issue。
 
+- 操作界面
+![操作界面](screenshots/1. 主界面.png)
+
+
 
 
 
