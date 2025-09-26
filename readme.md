@@ -38,9 +38,8 @@
   - 欢迎大家使用，若是发现BUG, 请及时联系反馈提交Issue。
 
 - 操作界面
-![操作界面](screenshots/1.%20主界面.png)
-
-![操作界面](screenshots/2.%20驱动模块.png)
+- ![操作界面](screenshots/1.%20主界面.png)
+- ![操作界面](screenshots/2.%20驱动模块.png)
 
 
 
