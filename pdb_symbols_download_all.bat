@@ -1,0 +1,22 @@
+@echo off 
+chcp 65001 >nul
+setlocal
+
+set currentDir=%cd%
+
+echo ////////////////////////////////////////////////////////////////
+echo pdb symbols download ...
+echo currentDir: %currentDir%
+echo ////////////////////////////////////////////////////////////////
+
+.\symchk.exe /v /it "%currentDir%\pdb_symbols_all.txt" /s "SRV*%currentDir%\symbol*https://msdl.microsoft.com/download/symbols"
+
+echo ////////////////////////////////////////////////////////////////
+echo pdb symbols download ok !
+echo symbols download to %currentDir%\symbol
+echo ////////////////////////////////////////////////////////////////
+
+pause
+
+
+
