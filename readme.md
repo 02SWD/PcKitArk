@@ -40,8 +40,6 @@
 
 - 操作界面
 ![操作界面](screenshots/1.%20主界面.png)
-![操作界面](screenshots/2.%20驱动模块.png)
-![操作界面](screenshots/8_监控%20-%20系统调用.png)
 ![操作界面](screenshots/9_监控%20-%20系统调用.png)
 
 - 更新日志
